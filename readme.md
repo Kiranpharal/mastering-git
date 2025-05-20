@@ -1,4 +1,3 @@
-##Hey hey hey!
-
-Its me adam
+##Welcome to Git!
+-coming from 'dev-kiran'
 -im adding this from 'feature-branch'
